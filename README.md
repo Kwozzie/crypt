@@ -1,0 +1,2 @@
+# crypt
+Testing Git Crypt
